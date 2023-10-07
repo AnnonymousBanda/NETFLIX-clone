@@ -1,6 +1,9 @@
 # NETFLIX-clone
 NETFLIX India clone using html &amp; css and not bootstrap
 
+# Link
+https://annonymousbanda.github.io/NETFLIX-clone/
+
 ## Project Overview
 
 I'm thrilled to announce the completion of my first-ever web clone project, which replicates the user interface of Netflix India. While I'm proud of this achievement, I acknowledge that there's room for improvement. At present, the clone lacks responsiveness, and I've identified a few key features such as FAQs and a proper footer that are missing.
